@@ -104,12 +104,7 @@ Trading-Analytics/
 
 ---
 
-## 🚀 Future Improvements
 
-- Interactive dashboard using Plotly or Streamlit
-- Technical indicator analysis
-- Risk and return dashboard
-- Portfolio performance analytics
 
 ---
 
